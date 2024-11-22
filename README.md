@@ -35,10 +35,12 @@ This script is ideal for system administrators and DevOps teams needing a quick 
    cd server-stats
 
 2. Make the script executable:
-   chmod +x server-stats.sh
+    ```bash
+    chmod +x server-stats.sh
 
-3. Run the script:
-   ./server-stats.sh
+4. Run the script:
+    ```bash
+    ./server-stats.sh
 
 ## Contribution ##
 
