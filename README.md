@@ -4,7 +4,8 @@ Server Stats Script
 
 ##################################################################################################
 
-Purpose: This is a simple and efficient script for basic performance analysis of Linux servers.
+Purpose: This is a simple and efficient script for basic performance analysis of Linux servers created as a project for `Roadmaps.sh`.
+(https://roadmap.sh/projects/server-stats)
 
 ## Description ##
 
